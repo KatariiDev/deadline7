@@ -8,7 +8,7 @@ body {
     font-family: "Poppins";
     font-size: 16px;
     height: 100%;
-}
+}   
 
 .container {
     display: flex;
@@ -73,6 +73,7 @@ body {
 .date {
     font-weight: 400;
     color: rgb(186, 186, 186);
+    
 }
 
 .h-nav-right {
@@ -228,6 +229,7 @@ body {
 
 .contact-content {
     font-weight: bold;
+    font-size: 18px;
 }
 
 .box-contact {
